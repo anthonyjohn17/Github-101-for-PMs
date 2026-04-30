@@ -20,7 +20,7 @@ Github-101-for-PMs/
 │   ├── build-project.md         # Cursor / Claude Code: first build
 │   ├── commit-and-push.md       # Cursor / Claude Code: save and publish
 │   └── write-readme.md          # Cursor / Claude Code: documentation
-├── github-readme/README.md    # Example profile README layout (badges, skills strip)
+├── ja-readme/README.md        # Example profile README layout (badges, skills strip)
 └── .gitignore
 ```
 
