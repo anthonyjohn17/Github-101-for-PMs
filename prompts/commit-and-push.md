@@ -45,3 +45,7 @@ Create a branch to experiment:
 ```
 Create a new branch called "experiment-[feature-name]"
 ```
+
+---
+
+**Reference in this repo:** [Github-101.md](../Github-101.md) — [Commit message standards](../Github-101.md#-commit-message-standards), [Staging](../Github-101.md#-staging-files), [Committing](../Github-101.md#-committing-changes), [Pushing](../Github-101.md#-pushing-code), [Git stash](../Github-101.md#-git-stash), [Undoing mistakes](../Github-101.md#-undoing-mistakes), [Branching](../Github-101.md#-branching).

@@ -22,3 +22,7 @@ Set the repo description to: "[One sentence about what this project does]"
 - Use lowercase with hyphens for repo names: `ai-email-agent` not `AI Email Agent`
 - Always make it public (private repos don't help your profile)
 - Keep the initial commit clean — you'll add real code in the next step
+
+---
+
+**Reference in this repo:** [Github-101.md](../Github-101.md) — [Creating a repository](../Github-101.md#-creating-a-repository), [Connecting to GitHub](../Github-101.md#-connecting-to-github), [`.gitignore`](../Github-101.md#-gitignore), [Authentication (HTTPS vs SSH)](../Github-101.md#-authentication-https-vs-ssh).

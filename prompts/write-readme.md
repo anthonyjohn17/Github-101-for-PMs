@@ -28,3 +28,7 @@ Write it for a hiring manager who has 2 minutes to understand what I built and h
 - Would a PM hiring manager learn something about how you think from reading this?
 
 If any answer is no, rewrite that section yourself.
+
+---
+
+**Reference in this repo:** [Github-101.md](../Github-101.md) — [Professional workflow](../Github-101.md#-professional-workflow), [Pull requests](../Github-101.md#-pull-requests) (how review maps to README-worthy clarity), [Tags / releases](../Github-101.md#-tags-releases) when you ship versions.

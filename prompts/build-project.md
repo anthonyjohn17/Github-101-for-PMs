@@ -36,3 +36,7 @@ Add comments explaining what each section does.
 - Input: list of competitor URLs
 - Process: check for changes daily, extract key updates
 - Output: weekly digest email or Slack message
+
+---
+
+**Reference in this repo:** [Github-101.md](../Github-101.md) — [Quick start](../Github-101.md#-quick-start-5-steps), [Branching](../Github-101.md#-branching) (if you split experiments), [Best practices](../Github-101.md#-best-practices).
