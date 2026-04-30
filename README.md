@@ -9,7 +9,7 @@ A practical bundle for **shipping a hire-ready GitHub profile** plus a **full Gi
 ## Repository layout
 
 ```
-github-101/
+Github-101-for-PMs/
 ├── Github-101.md              # Git & GitHub — complete practical guide (TOC + 76 topic areas)
 ├── CHECKLIST.md               # 3-week roadmap from zero to live
 ├── templates/
