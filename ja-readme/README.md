@@ -86,16 +86,18 @@
 
 **Delivery & cloud:** Docker · GitHub Actions · AWS · GCP · Azure OpenAI · Databricks · Snowflake · MLflow · SAP Fiori  
 
+
 **Domain:** `AI-native Product Strategy` `Agentic AI` `Governance & Compliance (GDPR/HIPAA)` 
 `Go-to-Market` `Marketing Mix Modeling` `Optimization` `A/B Testing` `Prompt Engineering` 
 `RAG` `Agile` `Stakeholder Management` 
+
 ---
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/ja717](https://www.linkedin.com/in/ja717/)
-- **GitHub:** [github.com/anthonyjohn17](https://github.com/anthonyjohn17)
-- **Email:** [anthony.john42@gmail.com](mailto:anthony.john42@gmail.com)
+ **LinkedIn:** [linkedin.com/in/ja717](https://www.linkedin.com/in/ja717/)
+ **GitHub:** [github.com/anthonyjohn17](https://github.com/anthonyjohn17)
+ **Email:** [anthony.john42@gmail.com](mailto:anthony.john42@gmail.com)
 
 *Open to discussing AI-native products, agentic workflows, and enterprise AI transformations.*
 
