@@ -108,26 +108,17 @@
 
 ---
 
-**Domain:** `AI-native Product Strategy` `Agentic AI`  
-`Go-to-Market` `Marketing Mix Modeling` `Optimization` `A/B Testing` `Stakeholder Management`  
-`Multi-Agent Orchestration & Evals` `RAG & Vector DBs` `LLM / FM Integration` `Human-Centered UX & Design Thinking`  
-`Agentic System Design` `Multimodal Pipelines` `Multi-Cloud AI Engineering (AWS, Azure, GCP)` `Product Leadership`  
-`MLOps / LLMOps` `CI/CD` `PoC → Production` `Chain-of-Thought Prompting` `Enterprise AI Strategy`  
-`Governance & Compliance (PII, GDPR, HIPAA)` `Responsible & Ethical AI` `Agile Execution (SAFe, CSM, PMP)`  
-`Product Lifecycle Management` `Full-Stack Prototyping & Demo Systems` `Data/ML Collaboration` `Roadmapping & Prioritization`  
-`SAP BTP, S/4HANA & Business AI Alignment` `OData & Enterprise Integration Patterns` `Human-in-the-Loop Design & Escalation Paths`  
-`LLM Observability, Quality Gates & Regression Suites` `Tool Use, MCP & Agent Tooling Strategy` `Knowledge Graphs & Metadata-Aware Retrieval`  
-`B2B Enterprise SaaS & Digital Procurement` `Vertical Copilots & Workflow Architecture` `Inference Economics (Cost, Latency, SLA)`  
-`Document AI & Unstructured Intake (OCR-to-Action)` `Executive Alignment & Workshop Facilitation` `Digital Transformation & Adoption Programs`  
-`Risk & Tradeoff Framing Under Uncertainty` `Pre-Sales Demo Architecture & Value Narratives` `CapEx / IT Portfolio Planning (Enterprise PMO)`  
+## Domain
+
+**Domain:** `AI-native Product Strategy` `Agentic AI` `Go-to-Market` `Marketing Mix Modeling` `Optimization` `A/B Testing` `Stakeholder Management` `Multi-Agent Orchestration & Evals` `RAG & Vector DBs` `LLM / FM Integration` `Human-Centered UX & Design Thinking` `Agentic System Design` `Multimodal Pipelines` `Multi-Cloud AI Engineering (AWS, Azure, GCP)` `Product Leadership` `MLOps / LLMOps` `CI/CD` `PoC → Production` `Chain-of-Thought Prompting` `Enterprise AI Strategy` `Governance & Compliance (PII, GDPR, HIPAA)` `Responsible & Ethical AI` `Agile Execution (SAFe, CSM, PMP)` `Product Lifecycle Management` `Full-Stack Prototyping & Demo Systems` `Data/ML Collaboration` `Roadmapping & Prioritization` `SAP BTP, S/4HANA & Business AI Alignment` `OData & Enterprise Integration Patterns` `Human-in-the-Loop Design & Escalation Paths` `LLM Observability, Quality Gates & Regression Suites` `Tool Use, MCP & Agent Tooling Strategy` `Knowledge Graphs & Metadata-Aware Retrieval` `B2B Enterprise SaaS & Digital Procurement` `Vertical Copilots & Workflow Architecture` `Inference Economics (Cost, Latency, SLA)` `Document AI & Unstructured Intake (OCR-to-Action)` `Executive Alignment & Workshop Facilitation` `Digital Transformation & Adoption Programs` `Risk & Tradeoff Framing Under Uncertainty` `Pre-Sales Demo Architecture & Value Narratives` `CapEx / IT Portfolio Planning (Enterprise PMO)`  
 
 ---
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/ja717](https://www.linkedin.com/in/ja717/)
-- **GitHub:** [github.com/anthonyjohn17](https://github.com/anthonyjohn17)
-- **Email:** [anthony.john42@gmail.com](mailto:anthony.john42@gmail.com)
+**LinkedIn:** [linkedin.com/in/ja717](https://www.linkedin.com/in/ja717/)
+**GitHub:** [github.com/anthonyjohn17](https://github.com/anthonyjohn17)
+**Email:** [anthony.john42@gmail.com](mailto:anthony.john42@gmail.com)
 
 *Open to discussing AI-native products, agentic workflows, and enterprise AI transformations.*
 
