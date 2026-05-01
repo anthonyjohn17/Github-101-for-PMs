@@ -80,24 +80,54 @@
 
 ## Tech Stack
 
-**Languages & data:** Python · SQL · Node.js · Express · Supabase · FAISS · Neo4j · Redis  
+**Languages & runtimes:** Python · SQL · Node.js · Express.js · JSON · XML · FastAPI  
+
+**Data & vector stores:** SQL · NoSQL · Supabase · FAISS · Neo4j · Redis · Airtable · SAP HANA/Cloud  
 
 **AI & agents:** LangChain · LangGraph · CrewAI · AutoGen · LlamaIndex · RAG · MCP · SAP BTP / AI Core  
 
-**Delivery & cloud:** Docker · GitHub Actions · AWS · GCP · Azure OpenAI · Databricks · Snowflake · MLflow · SAP Fiori  
+**Application & APIs:** Next.js · React · Tailwind · REST · GraphQL APIs  
 
+**LLMs & automation:** OpenAI Codex · Claude · Gemini · Bedrock · Azure AI · OpenRouter · Ollama · LangSmith · PromptLayer · Helicone · memGPT · Zep · n8n · Make · webhook-triggered agents · cron/schedulers · Playwright MCP  
 
-**Domain:** `AI-native Product Strategy` `Agentic AI` `Governance & Compliance (GDPR/HIPAA)` 
-`Go-to-Market` `Marketing Mix Modeling` `Optimization` `A/B Testing` `Prompt Engineering` 
-`RAG` `Agile` `Stakeholder Management` 
+**Cloud, MLOps & deployment:** AWS · GCP · Azure OpenAI · Databricks · Snowflake · MLflow · Docker · GitHub · GitHub Actions · Vercel · Netlify · Railway · Fly.io · LangServe · SAP Fiori  
+
+**PM & ops:** Jira · Notion · Linear · Miro · Slack · Perplexity AI · Google AI Studio · NotebookLM · Microsoft 365 · Teams · Copilot · Loom · Claude Cowork (Desktop)  
+
+**Design & UX/UI:** Figma · Magicpath · Mobbin · Canva · Runway · Gemini · Pika · Adobe CC · Midjourney · PlaybookUX · Google Stitch  
+
+**BI & analytics:** Excel (+ Claude) · Power BI · Tableau · Mixpanel · Amplitude · PostHog · Google Analytics · Optimizely · Statsig  
+
+**SAP & enterprise AI:** SAP S/4HANA · BTP · ECC · Fiori · AI Core · ISLM · FICO · HANA · Concur · Joule Agents · OData · PowerApps  
+
+**Governance & compliance:** GDPR · HIPAA · lifecycle management · persistent memory patterns  
+
+**IDE & coding tools:** Cursor · VS Code · Claude Code · Codex · Antigravity (prototyping)  
+
+**Research & utilities:** Streamlit · Jupyter Notebooks · Google Colab  
+
+---
+
+**Domain:** `AI-native Product Strategy` `Agentic AI`  
+`Go-to-Market` `Marketing Mix Modeling` `Optimization` `A/B Testing` `Stakeholder Management`  
+`Multi-Agent Orchestration & Evals` `RAG & Vector DBs` `LLM / FM Integration` `Human-Centered UX & Design Thinking`  
+`Agentic System Design` `Multimodal Pipelines` `Multi-Cloud AI Engineering (AWS, Azure, GCP)` `Product Leadership`  
+`MLOps / LLMOps` `CI/CD` `PoC → Production` `Chain-of-Thought Prompting` `Enterprise AI Strategy`  
+`Governance & Compliance (PII, GDPR, HIPAA)` `Responsible & Ethical AI` `Agile Execution (SAFe, CSM, PMP)`  
+`Product Lifecycle Management` `Full-Stack Prototyping & Demo Systems` `Data/ML Collaboration` `Roadmapping & Prioritization`  
+`SAP BTP, S/4HANA & Business AI Alignment` `OData & Enterprise Integration Patterns` `Human-in-the-Loop Design & Escalation Paths`  
+`LLM Observability, Quality Gates & Regression Suites` `Tool Use, MCP & Agent Tooling Strategy` `Knowledge Graphs & Metadata-Aware Retrieval`  
+`B2B Enterprise SaaS & Digital Procurement` `Vertical Copilots & Workflow Architecture` `Inference Economics (Cost, Latency, SLA)`  
+`Document AI & Unstructured Intake (OCR-to-Action)` `Executive Alignment & Workshop Facilitation` `Digital Transformation & Adoption Programs`  
+`Risk & Tradeoff Framing Under Uncertainty` `Pre-Sales Demo Architecture & Value Narratives` `CapEx / IT Portfolio Planning (Enterprise PMO)`  
 
 ---
 
 ## 📫 Let's Connect
 
- **LinkedIn:** [linkedin.com/in/ja717](https://www.linkedin.com/in/ja717/)
- **GitHub:** [github.com/anthonyjohn17](https://github.com/anthonyjohn17)
- **Email:** [anthony.john42@gmail.com](mailto:anthony.john42@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ja717](https://www.linkedin.com/in/ja717/)
+- **GitHub:** [github.com/anthonyjohn17](https://github.com/anthonyjohn17)
+- **Email:** [anthony.john42@gmail.com](mailto:anthony.john42@gmail.com)
 
 *Open to discussing AI-native products, agentic workflows, and enterprise AI transformations.*
 
