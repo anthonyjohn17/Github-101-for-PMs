@@ -1,13 +1,15 @@
 <div align="center">
 
+<img src="./pro-pic.png" alt="John A. Anthony" width="200" />
+
 # John A. Anthony
 
 **AI Product Manager · Agentic AI Solutions Architect**
 
 *AI-Native Product Strategy | Multi-Agent Orchestration | SAP Business AI | RAG & LLM Systems | Context Engineering*
-<! -- *Building scalable AI systems that drive measurable business impact* --->
+<!-- *Building scalable AI systems that drive measurable business impact* -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ananttripathiak.github.io/ananttripathiak/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anthonyjohn17.github.io/ja-cyberpunk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ja717/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthony.john42@gmail.com)
 
@@ -17,11 +19,7 @@
 
 ## 👋 About Me
 
-**AI Product Manager / Agentic AI Solutions Architect** | **8+ years** spanning enterprise SaaS, GenAI systems, SAP integrations, and digital transformation.
-
-I lead design and full-cycle launch of **AI-native products**, from LLM copilots to **agentic workflow platforms**, with technical fluency in multi-agent orchestration (LangGraph, CrewAI, MCP), **RAG** architectures, and **SAP BTP/AI Core**. I translate complex enterprise needs into intelligent agent architectures, managing AI/ML product lifecycles, and driving go-to-market strategy across agile teams and regulated industries.
-
-Open to discussing AI-native products, agentic workflows, and enterprise AI transformations across regulated industries.
+**AI Product Manager / Agentic AI Solutions Architect** | **8+ years** spanning enterprise SaaS, GenAI systems, SAP integrations, and digital transformation—focused on **LLM products**, **RAG**, and **multi-agent** systems—from strategy and architecture to delivery.
 
 ---
 
@@ -60,77 +58,46 @@ Open to discussing AI-native products, agentic workflows, and enterprise AI tran
 
 ---
 
-## 🎓 Education
+## Core competencies
 
-| Degree | Institution | Focus |
-|--------|-------------|--------|
-| **Bachelor of Business Administration** | **University of Georgia - Terry Business School** | Finance &amp; MIS *(2011–2015)* |
-| **LLMOps specialization** | **Duke University** | specialization *(Nov 2025)* |
-| **MLOps specialization** | **Duke University** | specialization *(Nov 2025)* |
-| **AI Product Manager** | **Microsoft** | professional certificate *(Oct 2025)* |
+**Product & AI:** AI-native roadmap and GTM · multi-agent orchestration & evals · RAG & vector stores · prompt & context engineering · responsible AI & compliance-aware delivery · stakeholder / cross-functional leadership  
 
-*Certifications:* Deeplearning.ai (ML, DL, Advanced Statistics) · Azure OpenAI · 
-Marketing Mix Modeling
+**Engineering & ops:** MLOps / LLMOps · CI/CD, PoC → production · full-stack prototyping · multi-cloud AI (AWS, Azure, GCP, Databricks)
 
----
+## Recent Certifications (2025)
 
-## 💼 Experience & Impact
+| Completed | Credential |
+|:----------:|------------|
+| Nov 2025 | Duke — **LLMOps** specialization |
+| Nov 2025 | Duke — **MLOps** specialization |
+| Oct 2025 | **Microsoft** — AI Product Manager (professional certificate) |
+| Oct 2025 | **IBM** — RAG & Agentic AI (professional certificate) |
+| Oct 2025 | **Google** — Generative AI Leader (professional certificate) |
+| Oct 2025 | **AWS** — Generative AI Applications: Scale Your Vision |
+| Oct 2025 | **AWS** — Generative AI and AI Agents with Amazon Bedrock |
+| Oct 2025 | **Atlassian** — Agile with Jira |
+| Oct 2025 | **Atlassian** — Version Control with Git |
 
-**PAASSOFT Inc.** · *AI Product Manager / Agentic AI Solutions Architect (Client: Smartsoft AI Innovation Lab)* · *Jul 2025 – Present*
+## Tech Stack
 
-- **AI Agent Builder Platform:** Led product design, roadmap planning, and lifecycle execution for a modular **AI Agent Builder platform** and a suite of specialized **enterprise AI agents** POCs, integrated with **SAP S/4HANA, SAP BTP, SAP Business AI & Joule Agents**.
-- **Cloud-agnostic, compliant, and secure agents:** Partnered with senior engineers and solution architects to develop **cloud-agnostic, compliant, and secure agents** using **OpenAI, Bedrock, Gemini, and Azure AI**, tailored for regulated industries & SAP environments.
-- **Vertical copilots (SAP ECC/S4):** Defined vertical copilots for key use cases such as **invoice classification**, **financial close automation**, **billing inquiry resolution** and **field operations support**, mapped to SAP ECC/S4 modules and live workflows.
-- **Demo portal & admin panel:** Co-architected the **demo portal and admin panel**, enabling end-to-end productization of interactive POCs for internal enablement, client validation and early GTM traction—**cut** **agent build time by 50%**.
-- **Multi-cloud orchestration:** Engineered **multi-cloud agent orchestration** layers, incorporating **RAG pipelines,** metadata-based prompting, and compatibility with SAP ISLM for real-time SAP workflow integration.
-- **SAP-centric agent flows:** Designed SAP-centric agent flows using **LangChain**, custom APIs, and **SAP Fiori** components, with strict guardrails and traceability features to ensure system safety & regulatory compliance.
+**Languages & data:** Python · SQL · Node.js · Express · Supabase · FAISS · Neo4j · Redis  
 
-**Awards:** Certifications: SAFe® Certified Product Owner/Product Manager (2017) · Certified ScrumMaster (CSM®) (2017) · PMI-ACP (2018)
+**AI & agents:** LangChain · LangGraph · CrewAI · AutoGen · LlamaIndex · RAG · MCP · SAP BTP / AI Core  
 
----
+**Delivery & cloud:** Docker · GitHub Actions · AWS · GCP · Azure OpenAI · Databricks · Snowflake · MLflow · SAP Fiori  
 
-## 🛠️ Tech Stack & Keywords
-
-**Languages & Data:** `Python` `SQL` `Node.js` `Express.js` `Supabase` `FAISS` `Neo4j` `Redis`
-
-**AI & Agents:** `LangChain` `LangGraph` `CrewAI` `AutoGen` `LlamaIndex` `RAG` `Multi-Agent Orchestration` `SAP BTP/AI Core`
-
-**Delivery & Cloud:** `MLOps/LLMOps` `CI/CD` `Docker` `AWS` `GCP` `SAP Fiori` `MLflow` `Azure OpenAI` `Databricks` `Snowflake`
-
-**Domain:** `AI-native Product Strategy` `Agentic AI` `Governance & Compliance (GDPR/HIPAA)` `Go-to-Market` `Marketing Mix Modeling` `Optimization` `A/B Testing` `Prompt Engineering` `RAG` `Agile` `Stakeholder Management` 
-
----
-
-## 📈 Highlights
-
-| Metric | Impact |
-|--------|--------|
-| **Agent Build Time Reduction** | 50% |
-| **Unique Client Projects** | 35+ |
-| **Delivery Speed** | 3x faster delivery |
-| **ARR Growth** | 35% in 2 yrs |
-| **Mobile Engagement Lift** | 2-3x app engagement time |
-
----
-
-## 🌐 Featured Work
-
-- **Modular AI Agent Builder Platform** — Integrated AI agent POCs with SAP S/4HANA, SAP BTP, SAP Business AI & Joule Agents.
-- **Demo Portal & Admin Panel** — Productization for internal enablement + client validation; cut agent build time by 50%.
-- **NH360 Digital Products** — Maturity Assessments, Transformation Diagnostics, Change Pulse & Change Economics.
-- **Custom WMS for Siemens Mindsphere IoT** — LaborApp/WMS; increased ARR by 35% in 2 yrs.
-- **GoProcure Mobile App Redesign & Launch** — $1M annual spend; ~15% MRR growth rate (2019–2020); 2-3x engagement improvements.
-
+**Domain:** `AI-native Product Strategy` `Agentic AI` `Governance & Compliance (GDPR/HIPAA)` 
+`Go-to-Market` `Marketing Mix Modeling` `Optimization` `A/B Testing` `Prompt Engineering` 
+`RAG` `Agile` `Stakeholder Management` 
 ---
 
 ## 📫 Let's Connect
 
-- **Portfolio:** [ananttripathiak.github.io/ananttripathiak](https://ananttripathiak.github.io/ananttripathiak/)
 - **LinkedIn:** [linkedin.com/in/ja717](https://www.linkedin.com/in/ja717/)
 - **GitHub:** [github.com/anthonyjohn17](https://github.com/anthonyjohn17)
 - **Email:** [anthony.john42@gmail.com](mailto:anthony.john42@gmail.com)
 
-*Open to discussing AI-native products, agentic workflows, and enterprise AI transformations across regulated industries.*
+*Open to discussing AI-native products, agentic workflows, and enterprise AI transformations.*
 
 ---
 
@@ -138,6 +105,6 @@ Marketing Mix Modeling
 
 **Transforming Data into Intelligence**
 
-*Last updated: January 2026*
+*Last updated: April 2026*
 
 </div>
